@@ -46,7 +46,7 @@
 
 ---
 
-# 💻 Пройденные курсы
+### 💻 Пройденные курсы
 - 🧪 Тестировщик с нуля 2024. Web/Mobile, Postman, SQL, Git, Bash
 [![Udemy Certificate](https://img.shields.io/badge/Udemy-Certificate-orange)](https://www.udemy.com/certificate/UC-e74fb6c3-fa66-4798-9030-8d08cbf88a04/)
 - 📚 Поколение Python: курс для начинающих
