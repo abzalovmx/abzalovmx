@@ -34,14 +34,14 @@
 ---
 ### 🛠️ Примеры моих работ и знаний:
 
-- [Theory Of Software Testing](https://github.com/abzalovmx/TheoryOfSoftwareTesting)
-- [Test Design](https://github.com/abzalovmx/TestDesign)
-- [Test Documentation](https://github.com/abzalovmx/TestDocumentation)
-- [WEB Testing](https://github.com/abzalovmx/WEB_Testing)
-- [API Testing Postman](https://github.com/abzalovmx/API_TestingPostman)
-- [Database Testing](https://github.com/abzalovmx/DatabaseTesting)
-- [Mobile Testing](https://github.com/abzalovmx/MobileTesting)
-- [Traffic Capturing and Analysis](https://github.com/abzalovmx/TrafficCapturingAndAnalysis)
+- [**🧪 Theory Of Software Testing**](https://github.com/abzalovmx/TheoryOfSoftwareTesting)
+- [**📐 Test Design**](https://github.com/abzalovmx/TestDesign)
+- [**📄 Test Documentation**](https://github.com/abzalovmx/TestDocumentation)
+- [**🌐 WEB Testing**](https://github.com/abzalovmx/WEB_Testing)
+- [**🔌 API Testing Postman**](https://github.com/abzalovmx/API_TestingPostman)
+- [**💾 Database Testing**](https://github.com/abzalovmx/DatabaseTesting)
+- [**📱 Mobile Testing**](https://github.com/abzalovmx/MobileTesting)
+- [**🚦 Traffic Capturing and Analysis**](https://github.com/abzalovmx/TrafficCapturingAndAnalysis)
 
 ---
 ### 🐍 Язык программирования:
