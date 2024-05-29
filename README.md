@@ -32,7 +32,7 @@
 </div>
 
 ---
-### 🛠️ Примеры моих работ:
+### 🛠️ Примеры моих работ и знаний:
 
 - [Theory Of Software Testing](https://github.com/abzalovmx/TheoryOfSoftwareTesting)
 - [Test Design](https://github.com/abzalovmx/TestDesign)
