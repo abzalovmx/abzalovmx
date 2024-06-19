@@ -27,9 +27,10 @@
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
 </div>
+
 
 ---
 ### 🛠️ Примеры моих работ и знаний:
@@ -42,7 +43,7 @@
 - [**💾 Database Testing**](https://github.com/abzalovmx/DatabaseTesting)
 - [**📱 Mobile Testing**](https://github.com/abzalovmx/MobileTesting)
 - [**🚦 Traffic Capturing and Analysis**](https://github.com/abzalovmx/TrafficCapturingAndAnalysis)
-
+- [🤖 Automation API | Python | Pytest ]()
 ---
 ### 🐍 Язык программирования:
 
