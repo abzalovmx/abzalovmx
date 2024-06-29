@@ -43,7 +43,7 @@
 - [**💾 Database Testing**](https://github.com/abzalovmx/DatabaseTesting)
 - [**📱 Mobile Testing**](https://github.com/abzalovmx/MobileTesting)
 - [**🚦 Traffic Capturing and Analysis**](https://github.com/abzalovmx/TrafficCapturingAndAnalysis)
-- [**🤖 Automation API (In the process of learning...)**]()
+- [**🤖 Automation API**](https://github.com/abzalovmx/API_Project_Python/tree/main)
 ---
 ### 🐍 Язык программирования:
 
